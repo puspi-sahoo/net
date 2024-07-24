@@ -1,0 +1,12 @@
+/* src/components/SeriesList.css */
+.series-list {
+  width: 100%;
+  /* width: 100px; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 30px;
+    background-color: #d6d1d1;
+  }
+
+  
